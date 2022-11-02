@@ -1,0 +1,18 @@
+C:\Users\Nıjat\OneDrive\Masaüstü\Github Projeler\Login Screen ödev\Login Screen ödev\obj\Debug\net6.0-windows\Login Screen ödev.csproj.AssemblyReference.cache
+C:\Users\Nıjat\OneDrive\Masaüstü\Github Projeler\Login Screen ödev\Login Screen ödev\obj\Debug\net6.0-windows\Login_Screen_ödev.Form1.resources
+C:\Users\Nıjat\OneDrive\Masaüstü\Github Projeler\Login Screen ödev\Login Screen ödev\obj\Debug\net6.0-windows\Login_Screen_ödev.Form2.resources
+C:\Users\Nıjat\OneDrive\Masaüstü\Github Projeler\Login Screen ödev\Login Screen ödev\obj\Debug\net6.0-windows\Login Screen ödev.csproj.GenerateResource.cache
+C:\Users\Nıjat\OneDrive\Masaüstü\Github Projeler\Login Screen ödev\Login Screen ödev\obj\Debug\net6.0-windows\Login Screen ödev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nıjat\OneDrive\Masaüstü\Github Projeler\Login Screen ödev\Login Screen ödev\obj\Debug\net6.0-windows\Login Screen ödev.AssemblyInfoInputs.cache
+C:\Users\Nıjat\OneDrive\Masaüstü\Github Projeler\Login Screen ödev\Login Screen ödev\obj\Debug\net6.0-windows\Login Screen ödev.AssemblyInfo.cs
+C:\Users\Nıjat\OneDrive\Masaüstü\Github Projeler\Login Screen ödev\Login Screen ödev\obj\Debug\net6.0-windows\Login Screen ödev.csproj.CoreCompileInputs.cache
+C:\Users\Nıjat\OneDrive\Masaüstü\Github Projeler\Login Screen ödev\Login Screen ödev\bin\Debug\net6.0-windows\Login Screen ödev.exe
+C:\Users\Nıjat\OneDrive\Masaüstü\Github Projeler\Login Screen ödev\Login Screen ödev\bin\Debug\net6.0-windows\Login Screen ödev.deps.json
+C:\Users\Nıjat\OneDrive\Masaüstü\Github Projeler\Login Screen ödev\Login Screen ödev\bin\Debug\net6.0-windows\Login Screen ödev.runtimeconfig.json
+C:\Users\Nıjat\OneDrive\Masaüstü\Github Projeler\Login Screen ödev\Login Screen ödev\bin\Debug\net6.0-windows\Login Screen ödev.dll
+C:\Users\Nıjat\OneDrive\Masaüstü\Github Projeler\Login Screen ödev\Login Screen ödev\bin\Debug\net6.0-windows\ref\Login Screen ödev.dll
+C:\Users\Nıjat\OneDrive\Masaüstü\Github Projeler\Login Screen ödev\Login Screen ödev\bin\Debug\net6.0-windows\Login Screen ödev.pdb
+C:\Users\Nıjat\OneDrive\Masaüstü\Github Projeler\Login Screen ödev\Login Screen ödev\obj\Debug\net6.0-windows\Login Screen ödev.dll
+C:\Users\Nıjat\OneDrive\Masaüstü\Github Projeler\Login Screen ödev\Login Screen ödev\obj\Debug\net6.0-windows\ref\Login Screen ödev.dll
+C:\Users\Nıjat\OneDrive\Masaüstü\Github Projeler\Login Screen ödev\Login Screen ödev\obj\Debug\net6.0-windows\Login Screen ödev.pdb
+C:\Users\Nıjat\OneDrive\Masaüstü\Github Projeler\Login Screen ödev\Login Screen ödev\obj\Debug\net6.0-windows\Login Screen ödev.genruntimeconfig.cache

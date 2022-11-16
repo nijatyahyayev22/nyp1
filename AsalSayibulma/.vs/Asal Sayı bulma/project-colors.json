@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e593fb9d-7c53-4176-837c-51c64497033b": {
+      "ProjectGuid": "e593fb9d-7c53-4176-837c-51c64497033b",
+      "DisplayName": "Asal Sayı bulma",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

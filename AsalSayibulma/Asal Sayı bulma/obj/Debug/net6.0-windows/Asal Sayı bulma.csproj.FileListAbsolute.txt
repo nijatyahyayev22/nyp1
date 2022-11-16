@@ -1,0 +1,17 @@
+C:\Users\Nıjat\OneDrive\Masaüstü\Github Projeler\Asal Sayı bulma\Asal Sayı bulma\bin\Debug\net6.0-windows\Asal Sayı bulma.exe
+C:\Users\Nıjat\OneDrive\Masaüstü\Github Projeler\Asal Sayı bulma\Asal Sayı bulma\bin\Debug\net6.0-windows\Asal Sayı bulma.deps.json
+C:\Users\Nıjat\OneDrive\Masaüstü\Github Projeler\Asal Sayı bulma\Asal Sayı bulma\bin\Debug\net6.0-windows\Asal Sayı bulma.runtimeconfig.json
+C:\Users\Nıjat\OneDrive\Masaüstü\Github Projeler\Asal Sayı bulma\Asal Sayı bulma\bin\Debug\net6.0-windows\Asal Sayı bulma.dll
+C:\Users\Nıjat\OneDrive\Masaüstü\Github Projeler\Asal Sayı bulma\Asal Sayı bulma\bin\Debug\net6.0-windows\ref\Asal Sayı bulma.dll
+C:\Users\Nıjat\OneDrive\Masaüstü\Github Projeler\Asal Sayı bulma\Asal Sayı bulma\bin\Debug\net6.0-windows\Asal Sayı bulma.pdb
+C:\Users\Nıjat\OneDrive\Masaüstü\Github Projeler\Asal Sayı bulma\Asal Sayı bulma\obj\Debug\net6.0-windows\Asal Sayı bulma.csproj.AssemblyReference.cache
+C:\Users\Nıjat\OneDrive\Masaüstü\Github Projeler\Asal Sayı bulma\Asal Sayı bulma\obj\Debug\net6.0-windows\Asal_Sayı_bulma.Form1.resources
+C:\Users\Nıjat\OneDrive\Masaüstü\Github Projeler\Asal Sayı bulma\Asal Sayı bulma\obj\Debug\net6.0-windows\Asal Sayı bulma.csproj.GenerateResource.cache
+C:\Users\Nıjat\OneDrive\Masaüstü\Github Projeler\Asal Sayı bulma\Asal Sayı bulma\obj\Debug\net6.0-windows\Asal Sayı bulma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nıjat\OneDrive\Masaüstü\Github Projeler\Asal Sayı bulma\Asal Sayı bulma\obj\Debug\net6.0-windows\Asal Sayı bulma.AssemblyInfoInputs.cache
+C:\Users\Nıjat\OneDrive\Masaüstü\Github Projeler\Asal Sayı bulma\Asal Sayı bulma\obj\Debug\net6.0-windows\Asal Sayı bulma.AssemblyInfo.cs
+C:\Users\Nıjat\OneDrive\Masaüstü\Github Projeler\Asal Sayı bulma\Asal Sayı bulma\obj\Debug\net6.0-windows\Asal Sayı bulma.csproj.CoreCompileInputs.cache
+C:\Users\Nıjat\OneDrive\Masaüstü\Github Projeler\Asal Sayı bulma\Asal Sayı bulma\obj\Debug\net6.0-windows\Asal Sayı bulma.dll
+C:\Users\Nıjat\OneDrive\Masaüstü\Github Projeler\Asal Sayı bulma\Asal Sayı bulma\obj\Debug\net6.0-windows\ref\Asal Sayı bulma.dll
+C:\Users\Nıjat\OneDrive\Masaüstü\Github Projeler\Asal Sayı bulma\Asal Sayı bulma\obj\Debug\net6.0-windows\Asal Sayı bulma.pdb
+C:\Users\Nıjat\OneDrive\Masaüstü\Github Projeler\Asal Sayı bulma\Asal Sayı bulma\obj\Debug\net6.0-windows\Asal Sayı bulma.genruntimeconfig.cache
